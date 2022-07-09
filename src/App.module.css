@@ -1,0 +1,10 @@
+.main{
+  display: flex;
+  flex-direction: row;
+}
+
+.block1,
+.block2,
+.block3{
+  margin-right: 15px;
+}
